@@ -8,6 +8,7 @@ import {
   Phone,
   MapPin,
   FileText,
+  ShieldCheck,
 } from "lucide-react";
 import FormField from "../components/FormField";
 
